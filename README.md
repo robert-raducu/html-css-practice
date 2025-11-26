@@ -31,6 +31,18 @@ A project focused purely on **CSS styling** and layout.
 - Buttons, forms, and pseudo-classes  
 - Background images and positioning  
 
+### 3. CSS Flexbox Practice
+This mini-project is focused on **CSS Flexbox** layout techniques.  
+It demonstrates how to use flex containers and flex items to create flexible, responsive layouts.  
+
+**Key concepts:**
+- `display: flex` to create a flex container
+- `flex-direction` and `flex-wrap` to control item flow
+- `justify-content` and `align-items` to align items horizontally and vertically
+- `order` to change the visual order of items
+- `flex` and `flex-basis` to control item size and proportion
+
+The project includes **three containers** with multiple boxes, showcasing different flex layouts and responsive behaviour.
 More mini-projects will be added as practice continues.
 
 ## How to View the Projects
