@@ -1,4 +1,4 @@
-#HTML & CSS Practice
+# HTML & CSS Practice
 
 This repository contains several small HTML and CSS mini-projects created while practicing fundamental web development concepts.
 Each project focuses on a different layout, styling technique, or page structure.
@@ -11,7 +11,7 @@ The projects are simple, beginner-friendly exercises meant to build confidence w
 - Responsive adjustments
 - Working with images, typography, and page structure
 
-##Project List
+## Project List
 ### 1. HTML Basics
 A project focused purely on **HTML structure** and semantic elements.
 
@@ -33,7 +33,7 @@ A project focused purely on **CSS styling** and layout.
 
 More mini-projects will be added as practice continues.
 
-##How to View the Projects
+## How to View the Projects
 
 Clone the repository: *git clone https://github.com/robert-raducu/html-css-practice.git*
 
@@ -41,6 +41,6 @@ Open any project folder.
 
 Open index.html in your browser.
 
-##Purpose
+## Purpose
 
 This repository serves as a personal practice space for improving HTML and CSS skills and tracking progress over time.
